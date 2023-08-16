@@ -290,11 +290,11 @@
 ```
     git clone https://github.com/DinhPhongNe/HackingToolCollection.git
     
-    chmod +x hackingtoolkit
+    chmod +x HackingToolCollection
     
-    cd hackingtoolkit
+    cd HackingToolCollection
     
-    sudo python3 htk.py
+    sudo python3 hackingtool.py
 ```
 
 ## Legal Notice
