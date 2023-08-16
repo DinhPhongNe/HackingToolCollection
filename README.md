@@ -287,15 +287,15 @@
 ## Installation For Linux 
 
 #### This Tool Must Run As ROOT !!!
-`
-    git clone https://github.com/DinhPhongNe/Hacking-tool-collection.git
+```
+    git clone https://github.com/DinhPhongNe/HackingToolCollection.git
     
     chmod +x hackingtoolkit
     
     cd hackingtoolkit
     
     sudo python3 htk.py
-`
+```
 
 ## Legal Notice
 
